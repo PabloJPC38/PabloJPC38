@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojpc38&label=Profile%20views&color=0e75b6&style=flat" alt="pablojpc38" /> </p>
 
-<h3 align="left">Encuentrame en:</h3>
+<h3 align="left">Búscame en:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/pablo.pizarro.10441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pablo.pizarro.10441" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/pablo_joel38_pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pablo_joel38_pc" height="30" width="40" /></a>
