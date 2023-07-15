@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=29&pause=1000&color=F75B4C&center=true&vCenter=true&width=1100&height=91&lines=Hola%2C+soy+Pablo+Pizarro;Estudiante+en+Sistemas+de+Informaci%C3%B3n;Desarrollador+Web+en+progreso...)](https://git.io/typing-svg)
 
- <img src="animations/snake.svg" style="background:#161b22;">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojpc38&label=Profile%20views&color=0e75b6&style=flat" alt="pablojpc38" /> </p>
 
@@ -29,5 +29,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloJPC38&layout=donut&theme=codeSTACKr" />
 </a>
 
-
+ <img src="animations/snake.svg" style="background:#161b22;">
 
